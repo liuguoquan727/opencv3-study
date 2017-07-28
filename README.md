@@ -12,7 +12,7 @@
 2. 解压
 3. [cmake官网下载Mac安装包](https://cmake.org/download/)
 4. 安装cmake
-5. 打卡cmake图形化界面，添加opencv解压路径为source code路径，其次指定build生成路径
+5. 打开cmake图形化界面，添加opencv解压路径为source code路径，其次指定build生成路径
 6. 执行configure
 7. 执行Generate
 8. 切换到其次指定build生成目录下执行make install
