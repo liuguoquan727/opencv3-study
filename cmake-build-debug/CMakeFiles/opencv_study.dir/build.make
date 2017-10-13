@@ -57,38 +57,38 @@ include CMakeFiles/opencv_study.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/opencv_study.dir/flags.make
 
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o: CMakeFiles/opencv_study.dir/flags.make
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o: ../src/tutorial/01/UserCamera.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuguoquan/workspace/study/opencv3-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o -c /Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/01/UserCamera.cpp
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o: CMakeFiles/opencv_study.dir/flags.make
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o: ../src/tutorial/06/BilateralFilter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuguoquan/workspace/study/opencv3-study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o -c /Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/06/BilateralFilter.cpp
 
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/01/UserCamera.cpp > CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.i
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/06/BilateralFilter.cpp > CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.i
 
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/01/UserCamera.cpp -o CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.s
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/06/BilateralFilter.cpp -o CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.s
 
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.requires:
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.requires:
 
-.PHONY : CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.requires
+.PHONY : CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.requires
 
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.provides: CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.requires
-	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.provides.build
-.PHONY : CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.provides
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.provides: CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.requires
+	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.provides.build
+.PHONY : CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.provides
 
-CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.provides.build: CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o
+CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.provides.build: CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o
 
 
 # Object files for target opencv_study
 opencv_study_OBJECTS = \
-"CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o"
+"CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o"
 
 # External object files for target opencv_study
 opencv_study_EXTERNAL_OBJECTS =
 
-opencv_study: CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o
+opencv_study: CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o
 opencv_study: CMakeFiles/opencv_study.dir/build.make
 opencv_study: /usr/local/lib/libopencv_shape.3.2.0.dylib
 opencv_study: /usr/local/lib/libopencv_stitching.3.2.0.dylib
@@ -115,7 +115,7 @@ CMakeFiles/opencv_study.dir/build: opencv_study
 
 .PHONY : CMakeFiles/opencv_study.dir/build
 
-CMakeFiles/opencv_study.dir/requires: CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o.requires
+CMakeFiles/opencv_study.dir/requires: CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o.requires
 
 .PHONY : CMakeFiles/opencv_study.dir/requires
 

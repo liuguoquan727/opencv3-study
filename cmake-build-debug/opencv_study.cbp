@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/01/UserCamera.cpp">
+		<Unit filename="/Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/06/BilateralFilter.cpp">
 			<Option target="opencv_study"/>
 		</Unit>
 		<Unit filename="/Users/liuguoquan/workspace/study/opencv3-study/CMakeLists.txt">

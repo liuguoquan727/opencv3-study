@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/01/UserCamera.cpp" "/Users/liuguoquan/workspace/study/opencv3-study/cmake-build-debug/CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o"
+  "/Users/liuguoquan/workspace/study/opencv3-study/src/tutorial/06/BilateralFilter.cpp" "/Users/liuguoquan/workspace/study/opencv3-study/cmake-build-debug/CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

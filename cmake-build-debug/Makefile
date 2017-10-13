@@ -123,32 +123,32 @@ opencv_study/fast:
 	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/build
 .PHONY : opencv_study/fast
 
-src/tutorial/01/UserCamera.o: src/tutorial/01/UserCamera.cpp.o
+src/tutorial/06/BilateralFilter.o: src/tutorial/06/BilateralFilter.cpp.o
 
-.PHONY : src/tutorial/01/UserCamera.o
+.PHONY : src/tutorial/06/BilateralFilter.o
 
 # target to build an object file
-src/tutorial/01/UserCamera.cpp.o:
-	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o
-.PHONY : src/tutorial/01/UserCamera.cpp.o
+src/tutorial/06/BilateralFilter.cpp.o:
+	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o
+.PHONY : src/tutorial/06/BilateralFilter.cpp.o
 
-src/tutorial/01/UserCamera.i: src/tutorial/01/UserCamera.cpp.i
+src/tutorial/06/BilateralFilter.i: src/tutorial/06/BilateralFilter.cpp.i
 
-.PHONY : src/tutorial/01/UserCamera.i
+.PHONY : src/tutorial/06/BilateralFilter.i
 
 # target to preprocess a source file
-src/tutorial/01/UserCamera.cpp.i:
-	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.i
-.PHONY : src/tutorial/01/UserCamera.cpp.i
+src/tutorial/06/BilateralFilter.cpp.i:
+	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.i
+.PHONY : src/tutorial/06/BilateralFilter.cpp.i
 
-src/tutorial/01/UserCamera.s: src/tutorial/01/UserCamera.cpp.s
+src/tutorial/06/BilateralFilter.s: src/tutorial/06/BilateralFilter.cpp.s
 
-.PHONY : src/tutorial/01/UserCamera.s
+.PHONY : src/tutorial/06/BilateralFilter.s
 
 # target to generate assembly for a file
-src/tutorial/01/UserCamera.cpp.s:
-	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.s
-.PHONY : src/tutorial/01/UserCamera.cpp.s
+src/tutorial/06/BilateralFilter.cpp.s:
+	$(MAKE) -f CMakeFiles/opencv_study.dir/build.make CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.s
+.PHONY : src/tutorial/06/BilateralFilter.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... opencv_study"
-	@echo "... src/tutorial/01/UserCamera.o"
-	@echo "... src/tutorial/01/UserCamera.i"
-	@echo "... src/tutorial/01/UserCamera.s"
+	@echo "... src/tutorial/06/BilateralFilter.o"
+	@echo "... src/tutorial/06/BilateralFilter.i"
+	@echo "... src/tutorial/06/BilateralFilter.s"
 .PHONY : help
 
 

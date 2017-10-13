@@ -4,7 +4,7 @@ project(opencv_study)
 include_directories(${OpenCV_INCLUDE_DIRS})
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES src/tutorial/01/UserCamera.cpp)
+set(SOURCE_FILES src/tutorial/06/BilateralFilter.cpp)
 find_package(OpenCV REQUIRED)
 add_executable(opencv_study ${SOURCE_FILES})
 target_link_libraries(opencv_study ${OpenCV_LIBS})

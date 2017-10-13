@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/opencv_study.dir/src/tutorial/01/UserCamera.cpp.o"
+  "CMakeFiles/opencv_study.dir/src/tutorial/06/BilateralFilter.cpp.o"
   "opencv_study.pdb"
   "opencv_study"
 )
