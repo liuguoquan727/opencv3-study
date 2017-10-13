@@ -35,7 +35,7 @@ target_link_libraries( 工程名 ${OpenCV_LIBS} )
 
 ## doc
 
->总结文档
+[OpenCV3学习笔记](https://github.com/liuguoquan727/notes/blob/master/opencv/opencv.md)
 
 ## src
 
