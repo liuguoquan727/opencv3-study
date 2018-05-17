@@ -26,5 +26,15 @@ int main() {
 
     waitKey(0);
 
+    int a[3][4] = {{1,3,5,7},{2,4,6,8}};
+
+    printf("%d",*(*a + 1));
+    printf("%d",*(*a));
+
+    int c[] = {1,2,3};
+    int *p;
+
+    p = c + 1;
+
     return 0;
 }
